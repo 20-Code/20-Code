@@ -6,5 +6,8 @@ Actualmente estoy como Cloud ☁️⚙️ Engineer 🚀 en servicio de Google.
 ## 🛠 Skills
 MySQl, Java, Javascript, HTML, CSS.
 
+## Frameworks
+Angular, React (Vite), NodeJS, ExpressJS
+
 ## Stats💻
-![20-Code's Stats](https://github-readme-stats.vercel.app/api?username=20-Code&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![20-Code's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=20-Code&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
