@@ -6,7 +6,7 @@ Actualmente estoy como Cloud ☁️⚙️ Engineer 🚀 en servicios de Google p
 ## 🛠 Skills
 MySQl, Java, Javascript, HTML, CSS.
 
-## Frameworks
+## ⚙️🧰Frameworks
 Angular, React (Vite), NodeJS, ExpressJS
 
 ## Stats💻
