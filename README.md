@@ -1,7 +1,7 @@
 # Hola, a todos👋!
 
 Soy Anthony, he sido desarrollador de software con mas de 2 años de experiencia.
-Actualmente estoy como Cloud ☁️⚙️ Engineer 🚀 en servicio de Google.
+Actualmente estoy como Cloud ☁️⚙️ Engineer 🚀 en servicio de Google para 🏢Akritechnologies[https://akri-tech.com/].
 
 ## 🛠 Skills
 MySQl, Java, Javascript, HTML, CSS.
