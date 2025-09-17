@@ -16,4 +16,4 @@ Soy Anthony, he sido desarrollador de software con mas de 2 años de experiencia
 - ExpressJS
 
 ## Programming languages💻
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20-Code)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20-Code&show_icons=true&theme=radical)
