@@ -15,5 +15,5 @@ Soy Anthony, he sido desarrollador de software con mas de 2 años de experiencia
 - NodeJS
 - ExpressJS
 
-## Stats💻
-[![20-Code's Streak](https://github-readme-streak-stats.herokuapp.com/?user=20-Code&theme=dracula&hide_border=true)](https://streak-stats.demolab.com/demo/)
+## Programming languages💻
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20-Code)](https://github.com/anuraghazra/github-readme-stats)
